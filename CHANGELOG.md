@@ -2,7 +2,11 @@
 
 All notable changes to `RWID TypeScript` will be documented in this file.
 
-## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.3...develop)
+## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.4...develop)
+
+## [0.2.4](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.4) - 2025-04-19
+
+- fix: env not being accessed in deployment in github pages by [@ngodingbang](https://github.com/ngodingbang) in [#bfd34a2](https://github.com/ngodingbang/rwid-typescript/commit/bfd34a2fef33c227a16df50b31e1bea05f32626f).
 
 ## [0.2.3](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.3) - 2025-04-19
 
