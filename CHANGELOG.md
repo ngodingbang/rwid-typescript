@@ -2,7 +2,13 @@
 
 All notable changes to `RWID TypeScript` will be documented in this file.
 
-## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.1...develop)
+## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.2...develop)
+
+## [0.2.2](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.2) - 2025-04-19
+
+- chore: add .env config by [@ngodingbang](https://github.com/ngodingbang) in [#12c2241](https://github.com/ngodingbang/rwid-typescript/commit/12c2241d266b2aefdb666c268b57e8d882c285e5).
+- ci: update github actions script by [@ngodingbang](https://github.com/ngodingbang) in [#c99651f](https://github.com/ngodingbang/rwid-typescript/commit/c99651f5042f5acffdcffab0657563e161263316).
+- docs: update codecov badge on readme by [@ngodingbang](https://github.com/ngodingbang) in [#ecc26b0](https://github.com/ngodingbang/rwid-typescript/commit/ecc26b0a9401b9f218a630e34756f40c5392fa82).
 
 ## [0.2.1](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.1) - 2025-04-19
 
