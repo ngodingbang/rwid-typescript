@@ -19,7 +19,6 @@ concurrency:
 env:
   NODE_VERSION: 22.14.0
   PNPM_VERSION: 10.8.1
-  VITE_ASSET_URL: ${{ secrets.VITE_ASSET_URL }}
 
 jobs:
   test:
@@ -54,6 +53,8 @@ jobs:
 
       - name: Build
         run: pnpm run build
+        env:
+          VITE_ASSET_URL: ${{ secrets.VITE_ASSET_URL }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
