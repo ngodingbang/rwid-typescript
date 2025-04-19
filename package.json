@@ -1,0 +1,44 @@
+{
+  "name": "rwid-typescript",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "description": "Learn TypeScript from basic.",
+  "engineStrict": true,
+  "engines": {
+    "node": "22.x",
+    "pnpm": "10.8.1"
+  },
+  "volta": {
+    "node": "22.14.0"
+  },
+  "packageManager": "pnpm@10.8.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngodingbang/rwid-typescript.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Learning",
+    "RWID"
+  ],
+  "author": {
+    "name": "Septianata Rizky Pratama",
+    "url": "https://ngodingbang.my.id",
+    "email": "ngodingbang@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ngodingbang/rwid-typescript/issues"
+  },
+  "homepage": "https://github.com/ngodingbang/rwid-typescript#readme",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "~5.7.2",
+    "vite": "^6.3.1"
+  }
+}
