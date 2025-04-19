@@ -2,7 +2,11 @@
 
 All notable changes to `RWID TypeScript` will be documented in this file.
 
-## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.4...develop)
+## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.5...develop)
+
+## [0.2.5](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.5) - 2025-04-19
+
+- fix: wrong url path of vite.svg image on homepage by [@ngodingbang](https://github.com/ngodingbang) in [#1f9f078](https://github.com/ngodingbang/rwid-typescript/commit/1f9f078adbd269cd52fba036090aaccb2ab7f83b).
 
 ## [0.2.4](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.4) - 2025-04-19
 
