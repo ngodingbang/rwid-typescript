@@ -16,7 +16,9 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write \"**/*.{css,js,json,jsx,ts,tsx}\""
   },
   "repository": {
     "type": "git",
@@ -38,6 +40,17 @@
   "homepage": "https://github.com/ngodingbang/rwid-typescript#readme",
   "license": "MIT",
   "devDependencies": {
+    "@eslint/compat": "^1.2.8",
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^9.25.0",
+    "@typescript-eslint/eslint-plugin": "^8.30.1",
+    "@typescript-eslint/parser": "^8.30.1",
+    "eslint": "^9.25.0",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-import-resolver-typescript": "^4.3.2",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-prettier": "^5.2.6",
+    "prettier": "^3.5.3",
     "typescript": "~5.7.2",
     "vite": "^6.3.1",
     "vite-tsconfig-paths": "^5.1.4"
