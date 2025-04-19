@@ -2,6 +2,8 @@
 
 [![License](https://badgen.net/github/license/ngodingbang/rwid-typescript "License")](LICENSE.md)
 [![Release](https://badgen.net/github/release/ngodingbang/rwid-typescript "Release")](https://github.com/ngodingbang/rwid-typescript/releases)
+[![Test Status](https://github.com/ngodingbang/rwid-typescript/actions/workflows/main.yml/badge.svg "Test Status")](https://github.com/ngodingbang/rwid-typescript/actions/workflows/main.yml)
+[![Coverage Status](https://codecov.io/github/ngodingbang/rwid-typescript/graph/badge.svg?token=IG5MQONGO8 "Coverage Status")](https://codecov.io/github/ngodingbang/rwid-typescript)
 
 Learn TypeScript from basic.
 
