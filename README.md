@@ -3,7 +3,7 @@
 [![License](https://badgen.net/github/license/ngodingbang/rwid-typescript "License")](LICENSE.md)
 [![Release](https://badgen.net/github/release/ngodingbang/rwid-typescript "Release")](https://github.com/ngodingbang/rwid-typescript/releases)
 [![Test Status](https://github.com/ngodingbang/rwid-typescript/actions/workflows/main.yml/badge.svg "Test Status")](https://github.com/ngodingbang/rwid-typescript/actions/workflows/main.yml)
-[![Coverage Status](https://codecov.io/github/ngodingbang/rwid-typescript/graph/badge.svg?token=IG5MQONGO8 "Coverage Status")](https://codecov.io/github/ngodingbang/rwid-typescript)
+[![Coverage Status](https://codecov.io/gh/ngodingbang/rwid-typescript/graph/badge.svg?token=2LTG789L2S "Coverage Status")](https://codecov.io/gh/ngodingbang/rwid-typescript)
 
 Learn TypeScript from basic.
 
@@ -14,6 +14,7 @@ Learn TypeScript from basic.
   - [Requirements](#requirements)
   - [Installation](#installation)
   - [Getting Started](#getting-started)
+  - [Testing](#testing)
 
 ## Requirements
 
@@ -35,4 +36,12 @@ First, run the development server:
 
 ```bash
 pnpm run dev
+```
+
+## Testing
+
+To run the test suite, use the following command:
+
+```bash
+pnpm run test
 ```
