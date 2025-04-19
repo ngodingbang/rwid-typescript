@@ -2,7 +2,12 @@
 
 All notable changes to `RWID TypeScript` will be documented in this file.
 
-## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.0...develop)
+## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.1...develop)
+
+## [0.2.1](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.1) - 2025-04-19
+
+- ci: add PNPM_VERSION on github actions env by [@ngodingbang](https://github.com/ngodingbang) in [#949dff3](https://github.com/ngodingbang/rwid-typescript/commit/949dff3f298b719eb89d80d7b6da271d6167a428).
+- fix: ensure GITHUB_TOKEN has permission "id-token: write" by [@ngodingbang](https://github.com/ngodingbang) in [#760a96b](https://github.com/ngodingbang/rwid-typescript/commit/760a96b4f16f8ff36d26c3931bfc26eebc9304dc).
 
 ## [0.2.0](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.0) - 2025-04-19
 
