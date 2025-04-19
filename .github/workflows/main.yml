@@ -6,6 +6,11 @@ on:
       - main
   pull_request:
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 env:
   NODE_VERSION: 22.14.0
   PNPM_VERSION: 10.8.1
