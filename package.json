@@ -18,7 +18,9 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "lint": "eslint . --ext .ts",
-    "format": "prettier --write \"**/*.{css,js,json,jsx,ts,tsx}\""
+    "format": "prettier --write \"**/*.{css,js,json,jsx,ts,tsx}\"",
+    "test": "vitest run",
+    "coverage": "vitest run --coverage"
   },
   "repository": {
     "type": "git",
