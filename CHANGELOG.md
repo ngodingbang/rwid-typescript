@@ -2,7 +2,11 @@
 
 All notable changes to `RWID TypeScript` will be documented in this file.
 
-## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.2...develop)
+## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.3...develop)
+
+## [0.2.3](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.3) - 2025-04-19
+
+- fix: add VITE_ASSET_URL env on github actions script by [@ngodingbang](https://github.com/ngodingbang) in [#152f98a](https://github.com/ngodingbang/rwid-typescript/commit/152f98aff51431827dc422b76da88b5e01deb4d9).
 
 ## [0.2.2](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.2) - 2025-04-19
 
