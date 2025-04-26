@@ -2,7 +2,11 @@
 
 All notable changes to `RWID TypeScript` will be documented in this file.
 
-## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.5...develop)
+## [Unreleased](https://github.com/ngodingbang/rwid-typescript/compare/0.2.6...develop)
+
+## [0.2.6](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.6) - 2025-04-26
+
+- fix: ignore /dist folder when running linter by [@ngodingbang](https://github.com/ngodingbang) in [#60275be](https://github.com/ngodingbang/rwid-typescript/commit/60275bea3f0a0182392567b958187d8b53aefbf4).
 
 ## [0.2.5](https://github.com/ngodingbang/rwid-typescript/releases/tag/0.2.5) - 2025-04-19
 
